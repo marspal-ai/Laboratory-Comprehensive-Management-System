@@ -15,11 +15,11 @@ Following the design concept of "plug and play, modular", with "component embedd
 Project Demo
 Experience address: http://marspal.ddns.net:8084/
 
-管理员账号：admin
+Administrator account: admin
 
-学员账号：
+Student account:
 
-温馨提示：演示环境请勿导入重要数据；如果账号密码被改无法登录，请联系我们。
+Reminder: Please do not import important data in the demonstration environment; If your account password has been changed and you are unable to log in, please contact us
 
 Business Edition Consultation
 If developers study and research, companies building internal systems on development platforms, distributing versions without closed source, and not participating in commercial projects will not constitute infringement risks. If resale, closed source distribution, or use as part of a commercial project is required, please proactively contact Mars Pioneer (Tianjin) Technology Co., Ltd. to purchase a commercial license.
