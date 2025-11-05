@@ -37,7 +37,7 @@
 
 若开发者学习研究，企业在开发平台上建设内部使用的系统，不闭源分发版本，不参与商业项目的使用行为不会构成侵权风险。 如果需要进行转售，闭源分发或者在商业项目中作为项目的一部分使用，请主动联系火星先驱（天津）科技有限公司购买商用许可。
 
-王经理 邮箱：wanglei@marspal.com 手机（同微信）：15202218948
+
 <img width="832" height="518" alt="image" src="https://github.com/user-attachments/assets/8edcd846-cf1f-42f9-93ff-5685c7243b9a" />
 官方网站
 官网：https://www.marspal.com
@@ -94,7 +94,7 @@ Mobile (same as WeChat): 15202218948
 
 If developers study and research, companies building internal systems on development platforms, distributing versions without closed source, and not participating in commercial projects will not constitute infringement risks. If resale, closed source distribution, or use as part of a commercial project is required, please proactively contact Mars Pioneer (Tianjin) Technology Co., Ltd. to purchase a commercial license.
 
-Manager Wang's email: wanglei@marspal.com Mobile (same as WeChat): 15202218948
+
 
 <img width="832" height="518" alt="image" src="https://github.com/user-attachments/assets/6b3eae0a-abda-45f9-8c98-fc3ae8c5bd4d" />
 
