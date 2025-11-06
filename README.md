@@ -1,4 +1,4 @@
-# 实验室综合管理系统Laboratory-Comprehensive-Management-System
+# 实验室综合（安全）管理系统Laboratory Comprehensive (Safety) Management System
 
 #### 系统介绍
 
@@ -13,6 +13,10 @@
 #### 系统采用模块化设计思路
 
 遵循“即插即用、模块化”的设计思想，以“组件嵌入式”为具体应用模式，具有自定义功能，针对用户的具体需求，无需更改源程序，可无缝集成其它各类业务数据和管理子系统。
+
+<img width="3360" height="1518" alt="image" src="https://github.com/user-attachments/assets/e1d11918-8db5-4e26-a135-a1aef7f24666" />
+
+<img width="3360" height="1518" alt="image" src="https://github.com/user-attachments/assets/8de98d8a-f59c-491a-b646-2754f8a1763e" />
 
 
 #### 项目演示
@@ -72,6 +76,12 @@ This system has been successfully implemented and applied in multiple universiti
 **The system adopts a modular design approach**
 
 Following the design concept of "plug and play, modular", with "component embedded" as the specific application mode, it has customized functions and can seamlessly integrate various business data and management subsystems according to the specific needs of users without changing the source code.
+
+
+<img width="3360" height="1518" alt="image" src="https://github.com/user-attachments/assets/e1d11918-8db5-4e26-a135-a1aef7f24666" />
+
+<img width="3360" height="1518" alt="image" src="https://github.com/user-attachments/assets/8de98d8a-f59c-491a-b646-2754f8a1763e" />
+
 
 #### Project Demo
 
